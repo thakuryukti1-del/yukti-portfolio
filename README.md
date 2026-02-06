@@ -1,16 +1,65 @@
-# React + Vite
+# 🌐 Yukti Thakur – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: https://yukti-portfolio.vercel.app/
 
-Currently, two official plugins are available:
+A modern personal portfolio built with React, Vite, and Tailwind CSS to showcase my projects, skills, and experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- Deployed on Vercel
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Responsive design (mobile + desktop)
+- Fast performance with Vite
+- Modern UI using Tailwind CSS
+- Project showcase section
+- Contact section
+
+---
+
+## 📦 Installation
+
+Clone the repo:
+
+git clone https://github.com/your-username/yukti-portfolio.git
+
+Go inside the folder:
+
+cd yukti-portfolio
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
+npm run dev
+
+---
+
+## 🏗 Build for production
+
+npm run build
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate or connect:
+
+- GitHub: https://github.com/thakuryukti1-del
+- LinkedIn: https://www.linkedin.com/in/yukti-thakur-3593a8293/
+- Email: thakuryukti1@gmail.com
+
+---
+
+⭐ If you like this project, consider giving it a star!
