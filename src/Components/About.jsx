@@ -6,11 +6,11 @@ export default function About() {
         <h2 className="text-3xl font-semibold">About Me</h2>
 
         <p className="text-gray-600 leading-relaxed">
-          Motivated and detail-oriented Frontend Developer and Computer Science
-          undergraduate with hands-on experience in React.js, Tailwind CSS,
-          JavaScript and REST APIs. Passionate about building scalable,
-          responsive and user-centered web applications.
-        </p>
+         I'm a Computer Science undergraduate passionate about building responsive and user-friendly web applications. 
+  I enjoy transforming ideas into interactive interfaces using React, Tailwind CSS, and modern frontend practices. 
+  Through hands-on projects, I have worked with REST APIs, dynamic state management, and scalable UI components. 
+  Currently seeking opportunities to contribute and grow as a frontend developer.
+</p>
 
       </div>
     </section>

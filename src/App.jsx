@@ -7,8 +7,7 @@ import Contact from "./Components/Contact";
 
 export default function App() {
   return (
-    <div className="bg-[#f6f5f2] text-gray-800">
-      <Navbar />
+<div className="bg-stone-50 text-gray-800">      <Navbar />
       <Hero />
       <About />
       <Skills />
